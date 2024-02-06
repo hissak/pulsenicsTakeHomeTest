@@ -1,6 +1,0 @@
-@GraphPlotterAPI_HostAddress = http://localhost:5027
-
-GET {{GraphPlotterAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
